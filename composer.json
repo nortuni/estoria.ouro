@@ -1,0 +1,15 @@
+{
+    "name": "nortuni/estoria.ouro",
+    "description": "Integrates Ouro's GetEventStore into Estoria",
+    "require": {
+        "nortuni/estoria": "dev-master",
+        "guzzlehttp/guzzle": "4.2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stijn Vannieuwenhuyse",
+            "email": "stijn@vannieuwenhuyse.net"
+        }
+    ]
+}
