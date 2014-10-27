@@ -11,5 +11,10 @@
             "name": "Stijn Vannieuwenhuyse",
             "email": "stijn@vannieuwenhuyse.net"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nortuni\\Estoria\\Ouro\\": "src/"
+        }
+    }
 }
