@@ -1,6 +1,6 @@
 <?php
 
-namespace Taphper\GetEventStore;
+namespace Nortuni\Estoria\Ouro;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\ClientException;
